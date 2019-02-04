@@ -25,5 +25,6 @@
 /* Positioning Classes */
 
 .column {
-  column-count: 1
+  column-count: 3
+  
 }
