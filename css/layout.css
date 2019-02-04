@@ -39,7 +39,6 @@
 .col-3 {
   margin-top: 20px;
   column-count: 3;
-  column-width: auto;
 }
 
 .first {
