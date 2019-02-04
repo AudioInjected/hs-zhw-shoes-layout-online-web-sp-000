@@ -35,6 +35,6 @@
   margin-left: 2%;
 }
 
-.col-3 {
-  column-count: 3;
+.first {
+  margin-left: 0;
 }
