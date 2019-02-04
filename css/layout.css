@@ -24,13 +24,6 @@
 
 /* Positioning Classes */
 
-.col-2 {
-  float: left;
-  width: 66%;
+.column {
+  
 }
-
-.col-1 {
-  float: left;
-  width: 32%;
-}
-
